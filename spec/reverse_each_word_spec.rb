@@ -16,3 +16,5 @@ describe '#reverse_each_word' do
     reverse_each_word("Verifying that collect is being called.")
   end
 end
+
+
